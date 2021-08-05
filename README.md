@@ -1,4 +1,4 @@
-# DillyzThe1's Role API Port
+# DillyzThe1's Role API Port (not finished)
 This is a port of Dillyz's easy to use role api for Among Us.
 Permission for use is granted, as long as you credit him.
 

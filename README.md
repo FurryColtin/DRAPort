@@ -6,7 +6,7 @@ Permission for use is granted, as long as you credit him.
 https://github.com/DillyzThe1/DillyzRoleApi/blob/main/instructions/guide.md
 
 # Discord
-https://discord.gg/49NFTwcYgZ - dillyz's mod server (he doesnt make among us mods anymore so if you just want to join for that then dont)
+https://discord.gg/49NFTwcYgZ - dillyz's mod server (he doesnt make among us mods anymore so if you just want to join for that then just dont)
 https://discord.gg/2GTBQPMEVb - dillyz's main server
 
 # Common Errors

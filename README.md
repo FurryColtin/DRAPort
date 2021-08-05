@@ -6,11 +6,8 @@ Permission for use is granted, as long as you credit him.
 https://github.com/DillyzThe1/DillyzRoleApi/blob/main/instructions/guide.md
 
 # Discord
-https://discord.gg/49NFTwcYgZ - Get sneak peeks at new mods or updates and chat around!
-https://discord.gg/2GTBQPMEVb - My main server full of chaos, designed for my YouTube channel.
-
-# Original Idea
-- This API was made for mods that will be made along-side Luke Wainy, but all mods on my github page are made alone.
+https://discord.gg/49NFTwcYgZ - dillyz's mod server (he doesnt make among us mods anymore so if you just want to join for that then dont)
+https://discord.gg/2GTBQPMEVb - dillyz's main server
 
 # Common Errors
 -- No documented errors as of yet --
@@ -19,7 +16,7 @@ https://discord.gg/2GTBQPMEVb - My main server full of chaos, designed for my Yo
 https://github.com/NotHunter101/ExtraRolesAmongUs
 https://github.com/CrowdedMods/CrowdedMod/blob/master/src/CrowdedMod/Patches/GenericPatches.cs
 https://github.com/Galster-dev/CrowdedSheriff
-The rest of API was written out of my knowledge of unity and past experiences.
+The rest of API was written out of his knowledge of unity and past experiences. (only thing i did was port it to the latest version of among us)
 
 # Note
 You will need Reactor for this. This is provided in the download, but can also be excluded.

@@ -1,6 +1,6 @@
-# DillyzThe1's Role API
-This adds a new API for simplistic roles in among us.
-Permission for use is granted, as long as you credit me.
+# DillyzThe1's Role API Port
+This is a port of Dillyz's easy to use role api for Among Us.
+Permission for use is granted, as long as you credit him.
 
 # Documentation
 https://github.com/DillyzThe1/DillyzRoleApi/blob/main/instructions/guide.md
@@ -24,9 +24,15 @@ The rest of API was written out of my knowledge of unity and past experiences.
 # Note
 You will need Reactor for this. This is provided in the download, but can also be excluded.
 The original file of Reactor: https://github.com/NuclearPowered/Reactor/actions
-If you have any problems with this api or me as a creator, feel free to ping me in my server or the reactor server. (DM's are off)
+If you have any problems with this api or Dillyz as a creator, feel free to ping him in his server or the reactor server. (DM's are off)
 Discord: https://discord.gg/Xfk4FUep
 
-# My other platforms
+# His other platforms
 https://www.youtube.com/channel/UCS8DAOdgMpGA7LAJlFSfDhQ
 https://github.com/DillyzThe1
+
+# My other platforms
+
+https://www.youtube.com/channel/UCDSC071IJvtCvV2h5CJ9HKw
+https://github.com/impostor5875
+https://www.twitch.tv/cubstreaming

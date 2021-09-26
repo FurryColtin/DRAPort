@@ -21,7 +21,7 @@ The rest of API was written out of his knowledge of unity and past experiences. 
 # Note
 You will need Reactor for this. This is provided in the download, but can also be excluded.
 The original file of Reactor: https://github.com/NuclearPowered/Reactor/actions
-If you have any problems with this api or Dillyz as a creator, feel free to ping him in his server or the reactor server. (DM's are off)
+If you have any problems with this api then idk and dont ping dillyz cause he doesn't do among us mods anymore
 Discord: https://discord.gg/Xfk4FUep
 
 # His other platforms

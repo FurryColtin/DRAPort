@@ -97,7 +97,7 @@ namespace DillyzRolesAPI.Roles
         public static KillButtonManager KillButton;
         public static int KBTarget;
         public static double DistLocalClosest;
-        public static string versionString = "1.3.0";
+        public static string versionString = "0.1.0 FIRST PORT DONT LEAK";
         public class ModdedConfig
         {
             public bool undeadSpeaks { get; set; }
@@ -125,8 +125,9 @@ namespace DillyzRolesAPI.Roles
                 if (modsText != null)
                     foreach (string str in modsText)
                         __instance.text.text += "\n" + str;
-                __instance.text.text += "\nRole API <#F6FF00>" + versionString + "</color> by <#3AA3D9>DillyzThe1</color>.";
+                __instance.text.text += "\nRole API <#F6FF00>" + versionString + "</color> by <#3AA3D9>Dillyzthe1</color>.";
                 __instance.text.text += "\nReactor API <#F6FF00>2021.4.12s</color> by <#3AA3D9>js6pak</color>.";
+                __instance.text.text += "\nSus API <#F6FF00>2021.4.13s</color> by <#3AA3D9>susagitor</color>.";
                 __instance.transform.position = new Vector3(-5.24f,2.85f,-5f);
             }
         }
@@ -144,7 +145,7 @@ namespace DillyzRolesAPI.Roles
                 __instance.text.text += ping;
                 foreach (string str in pingText)
                     __instance.text.text += "\n" + str;
-                __instance.text.text += "\nDillyzRoleApi " + versionString + "\n<#3AA3D9>github.com/DillyzThe1</color>";
+                __instance.text.text += "\nDillyzRoleApiPort " + versionString + "\n<#3AA3D9>github.com/DillyzThe1</color>";
             }
         }
         [HarmonyPatch(typeof(StatsManager), nameof(StatsManager.AmBanned), MethodType.Getter)]
